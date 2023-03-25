@@ -1,4 +1,5 @@
 # Practicing connecting a Local Directory to a Remote Repository
+## Steps for creating a GitHub repository
 - Create a local repository (directory)
 - Create a GitHub repository
   - In GitHub, select + and choose "New Repository"
